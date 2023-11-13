@@ -9,7 +9,7 @@
       - ждёмс
       - 
 
-<h3 align="center">Когда нажал проверить в тренажере</h3>
+<h3 align="center">Когда нажал "проверить" в тренажере </h3>
 
 <img src="images/literally-me.gif" alt="Описание" width="300" />
 <div style="position: relative; text-align: center; display: inline-block;">
