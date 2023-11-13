@@ -1,0 +1,1 @@
+Repo for Yandex Practicum tasks.
