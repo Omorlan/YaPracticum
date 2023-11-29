@@ -6,8 +6,13 @@
       <sourceFolder url="file://$MODULE_DIR$/Sprint 1/shopping-list/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/images" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simulator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sprint 2/java-sprint2-hw/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="bc135693-d831-4889-824f-cf618d47d7df" />
   </component>
 </module>

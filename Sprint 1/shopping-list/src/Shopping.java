@@ -7,7 +7,7 @@ public class Shopping {
 
         System.out.println("¬ас приветствует список покупок!");
 
-        ArrayList<String> shoppingList = new ArrayList<String>();
+        ArrayList<String> shoppingList = new ArrayList<>();
 
         Scanner scanner = new Scanner(System.in);
 
@@ -21,7 +21,13 @@ public class Shopping {
 
             int actionNumber = scanner.nextInt();
 
-            System.out.println(""); // ƒобавил чтобы текст в консоли не превращалс€ в кашу
+           // System.out.println(""); // ƒобавил чтобы текст в консоли не превращалс€ в кашу
+           /*
+            * ћожно использовать символ переноса строки ("¬ведите номер требуемой команды: \n"):
+            *или метод println, который будет каждый раз выводить печать с новой строки
+            *
+            * ƒа, но задумка именно в том что
+            */
             if (actionNumber == 1) {
                 System.out.print("¬ведите название товара, который ¬ы хотите добавить в список покупок:");
                 String newProduct = scanner.next();
