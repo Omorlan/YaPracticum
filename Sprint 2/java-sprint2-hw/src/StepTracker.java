@@ -67,6 +67,13 @@ class StepTracker {
 
     void changeStepGoal() {
         System.out.print(Messages.ENTER_NEW_GOAL);
-        goalByStepsPerDay = scanner.nextInt();
+        int input = scanner.nextInt();
+
+        if (input>0){
+            goalByStepsPerDay = input;
+        } else {
+            System.out.println(Messages.INVALID_STEP);
+            return;
+        }
     }
 }
