@@ -6,8 +6,9 @@
     - Sprint 1
         - shopping-list
     - Sprint 2
+      - java-sprint2-hw
+    - Sprint 3
       - soon
-      - 
 
 <h3 align="center">When I clicked "check" in the simulator</h3>
 
