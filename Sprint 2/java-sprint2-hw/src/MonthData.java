@@ -2,8 +2,12 @@ class MonthData {
     int[] days = new int[30];
 
     void printDaysAndStepsFromMonth() {
+        System.out.println("|-------------------|");
+        System.out.printf("| %-4s | %-10s |\n", "День", "Шаги");
+        System.out.println("|------|------------|");
         for (int i = 0; i < days.length; i++) {
-            System.out.println(i + 1 + " день:" + days[i]);
+            System.out.printf("| %-4d | %-10d |\n",i+1,days[i]);
+            System.out.println("|------|------------|");
         }
     }
 
