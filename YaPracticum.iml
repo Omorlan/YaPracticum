@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/simulator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sprint 2/java-sprint2-hw/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sprint 3/dinner-constructor/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
